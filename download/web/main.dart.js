@@ -38411,12 +38411,12 @@ ap(){return new A.Hu(B.l)}}
 A.Hu.prototype={
 aI(){this.b8()},
 T(a){var s=null,r=t.w,q=t.af
-return A.vX(B.cR,A.a([new A.AM(A.a(["http://langyage.net/resources/background1.webp","http://langyage.net/resources/background2.webp","http://langyage.net/resources/background3.webp","http://langyage.net/resources/background4.webp","http://langyage.net/resources/background5.webp","http://langyage.net/resources/background6.webp","http://langyage.net/resources/background7.webp","http://langyage.net/resources/background8.webp","http://langyage.net/resources/background9.webp"],t.s),s),new A.AG(B.eC,B.DL,B.p5,B.jm,s,B.hJ,s,A.a([A.nK(B.ah,A.U_(s,A.agM("\u82f9\u679c\u624b\u673a\u4e0b\u8f7d",A.mU(s,s,B.k,s,B.f,s,s,s,s,s,s,A.cL(a,s,r).w.a.a*0.03*0.5+A.cL(a,s,r).w.a.b*0.03*0.5,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),B.aD,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3F(this),s,s,s),s,B.ia,B.wc,s,s,B.jD,s),A.nK(B.ah,A.U_(s,A.agM("\u5b89\u5353\u624b\u673a\u4e0b\u8f7d",A.mU(s,s,B.k,s,B.f,s,s,s,s,s,s,A.cL(a,s,r).w.a.a*0.03*0.5+A.cL(a,s,r).w.a.b*0.03*0.5,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),B.aD,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3G(this),s,s,s),s,B.ia,B.we,s,s,B.jD,s)],q),s)],q),B.I0)}}
+return A.vX(B.cR,A.a([new A.AM(A.a(["https://download.background.langyage.net/background1.webp","https://download.background.langyage.net/background2.webp","https://download.background.langyage.net/background3.webp","https://download.background.langyage.net/background4.webp","https://download.background.langyage.net/background5.webp","https://download.background.langyage.net/background6.webp","https://download.background.langyage.net/background7.webp","https://download.background.langyage.net/background8.webp","https://download.background.langyage.net/background9.webp"],t.s),s),new A.AG(B.eC,B.DL,B.p5,B.jm,s,B.hJ,s,A.a([A.nK(B.ah,A.U_(s,A.agM("\u82f9\u679c\u624b\u673a\u4e0b\u8f7d",A.mU(s,s,B.k,s,B.f,s,s,s,s,s,s,A.cL(a,s,r).w.a.a*0.03*0.5+A.cL(a,s,r).w.a.b*0.03*0.5,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),B.aD,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3F(this),s,s,s),s,B.ia,B.wc,s,s,B.jD,s),A.nK(B.ah,A.U_(s,A.agM("\u5b89\u5353\u624b\u673a\u4e0b\u8f7d",A.mU(s,s,B.k,s,B.f,s,s,s,s,s,s,A.cL(a,s,r).w.a.a*0.03*0.5+A.cL(a,s,r).w.a.b*0.03*0.5,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),B.aD,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a3G(this),s,s,s),s,B.ia,B.we,s,s,B.jD,s)],q),s)],q),B.I0)}}
 A.a3F.prototype={
 $0(){A.a9p(A.dA("https://download.comic.ios.langyage.net",0,null))},
 $S:0}
 A.a3G.prototype={
-$0(){A.a9p(A.dA("https://courser123.github.io/download/\u7405\u740a\u6f2b\u753b.apk",0,null))},
+$0(){A.a9p(A.dA("http://download.resources.langyage.net/\u7405\u740a\u6f2b\u753b.apk",0,null))},
 $S:0}
 A.CU.prototype={
 T(a){return B.E8}}
